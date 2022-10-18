@@ -1,0 +1,95 @@
+.header{
+    float: right;
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+.btm{
+    background-color: #4285f4;
+    color: aliceblue;
+    padding: 9px;
+    border-radius: 3px;
+}
+
+.clearboth{
+    clear: both;
+}
+/* کلیر بوث باگ فلوت رو برطرف کرد */
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+ul li{
+    display: inline-block;
+}
+a:hover{
+    text-decoration: underline;
+}
+.search-box{
+    width: 400px;
+    margin: 70px auto;
+    text-align: center;
+}
+
+.searchtex{
+    width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+
+}
+
+.btm1{
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+.btm1:hover{
+    background-color: #9c9c9c;
+    border: 1px solid;
+    cursor: pointer;
+
+}
+/* کرسر پوینتر باعث می شود وقتی موس رفت روی سرچ یا لینک حال دست پیدا بکند */
+
+.footleft{
+    
+    float: left;
+    bottom: 0;
+   
+  
+    
+}
+
+.footright{
+    
+    float: right;
+    bottom: 0;
+ 
+   padding: 5px;
+   
+ 
+}
+
+.footer1 ul li{
+    display: inline-block;
+    
+}
+
+.footer1{
+    background-color: #ccc;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    border-top: 1px #ccc;
+    border-radius: 3px;
+}
+
+.a1:hover{
+    text-decoration: underline;
+
+}
